@@ -15,7 +15,10 @@
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
         "tymon/jwt-auth": "dev-develop",
-        "dingo/api": "^3.0.0"
+        "dingo/api": "^3.0.0",
+        "doctrine/dbal": "^2.5",
+        "intervention/image": "dev-master",
+        "wisembly/elephant.io": "^3.2"
     },
     "require-dev": {
         "facade/ignition": "^2.3.6",
